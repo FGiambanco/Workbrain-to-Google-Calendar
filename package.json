@@ -1,0 +1,11 @@
+{
+  "name": "workbrain-to-google-calendar",
+  "version": "1.0.0",
+  "description": "Takes email from GAP Workbrain Schedule email and add it to your Google Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Giambanco",
+  "license": "ISC"
+}
